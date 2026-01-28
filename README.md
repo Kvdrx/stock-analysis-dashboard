@@ -33,7 +33,7 @@ L'objectif est de corréler visuellement l'évolution du prix des actions avec l
 Pour exécuter ce notebook localement, installez les dépendances suivantes :
 
 ```bash
-pip install yfinance pandas requests beautifulsoup4 plotly nbformat 
+pip install -r requirements.txt
 ```
 
 > **Note :** Si vous avez des problèmes d'installation, consultez la documentation officielle de `yfinance` et `pandas`.
