@@ -19,11 +19,11 @@ L'objectif est de corréler visuellement l'évolution du prix des actions avec l
 > **Note :** Si les images ne s'affichent pas, vérifiez que vos fichiers sont bien placés dans le dossier `/screenshots`.
 
 ### 1. Dashboard Tesla
-![Tableau de Bord Tesla](screenshots/tesla_graph.png)
+![Tableau de Bord Tesla](Screenshots/tesla_graph.png)
 *Comparaison de la croissance du prix de l'action par rapport aux revenus de Tesla.*
 
 ### 2. Dashboard GameStop
-![Tableau de Bord GameStop](screenshots/gamestop_graph.png)
+![Tableau de Bord GameStop](Screenshots/gamestop_graph.png)
 *Visualisation des données de GameStop, incluant les périodes historiques de volatilité.*
 
 ---
