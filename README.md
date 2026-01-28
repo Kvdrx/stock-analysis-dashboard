@@ -49,17 +49,17 @@ Le dépôt est organisé comme suit :
 * **screenshots/** : Dossier contenant les captures d'écran des résultats.
 
 ### Étapes du Code :
-# 1. Extraction des données boursières de Tesla.
+#### 1. Extraction des données boursières de Tesla.
 
-# 2. Web Scraping des revenus de Tesla.
+#### 2. Web Scraping des revenus de Tesla.
 
-# 3.Extraction des données boursières de GameStop.
+#### 3. Extraction des données boursières de GameStop.
 
-# 4. Web Scraping des revenus de GameStop.
+#### 4. Web Scraping des revenus de GameStop.
 
-# 5. Génération du graphique Tesla via la fonction make_graph.
+#### 5. Génération du graphique Tesla via la fonction make_graph.
 
-# 6. Génération du graphique GameStop.
+#### 6. Génération du graphique GameStop.
 
 ## 📋 Crédits
 Ce projet fait partie du programme d'apprentissage d'IBM Skills Network.
